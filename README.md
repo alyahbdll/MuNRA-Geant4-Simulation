@@ -37,10 +37,9 @@ For each particle, the simulation reads:
 - primary-particle information.
 
 The CORSIKA particle ID is converted to the corresponding Geant4 particle definition, and the kinetic energy and direction are reconstructed from the momentum components.
-
 Particles are generated uniformly over a circular source above the detector.
 
-The ARTI `.shw` input files are not included in this repository because of their size.
+A small example ARTI input file (`bga_example.shw`) containing 20 particle entries is provided to illustrate the expected input format. The complete one-hour ARTI dataset used for the simulations is not included in this repository because of its size.
 
 ## Concrete attenuation
 
