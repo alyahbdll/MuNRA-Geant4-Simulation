@@ -16,6 +16,15 @@ The detector model consists of:
 
 The optical properties of the scintillator include its emission spectrum, absorption length, refractive index, scintillation yield and decay time.
 
+
+The simulation geometry used for the attenuation study is shown below.
+
+<p align="center">
+  <img src="figures/SimulationGeometry.png" width="800">
+</p>
+
+The detector model consists of:
+
 ## Atmospheric particle source
 
 Atmospheric secondary particles are provided by an ARTI/CORSIKA `.shw` file.
