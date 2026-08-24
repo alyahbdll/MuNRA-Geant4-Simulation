@@ -1,0 +1,10 @@
+/run/numberOfThreads 6
+/control/verbose 1
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+
+/run/initialize
+/vis/disable
+
+/run/beamOn 2337630
